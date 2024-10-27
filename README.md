@@ -28,7 +28,7 @@ Here are some screenshots to showcase the website design and layout:
 ![Branches Page](https://github.com/sidharthrajcj/NTCfinance/blob/main/Branches.png)
 ![Products Page](https://github.com/sidharthrajcj/NTCfinance/blob/main/Products.png)
 ![Vision Page](https://github.com/sidharthrajcj/NTCfinance/blob/main/Vision.png)
-![Products Page](https://github.com/sidharthrajcj/NTCfinance/blob/main/Products.png)
+![Products Page](https://github.com/sidharthrajcj/NTCfinance/blob/main/Aboutus.png)
 
 ## My Role
 I developed the frontend for this static website, using HTML, CSS, Bootstrap, and JavaScript to ensure the website effectively communicates NTC Finance's values and services. I also worked on the UI design, focusing on a layout that enhances user experience and reflects the company's professionalism.
